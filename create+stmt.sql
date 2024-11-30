@@ -1,0 +1,1 @@
+create or replace table test_1(id number);
